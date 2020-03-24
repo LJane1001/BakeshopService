@@ -1,0 +1,8 @@
+C:\Users\leanne.arce\OneDrive - Tribal Education Ltd\Training\Angular\Brownbag\ProductsSubsystem\bin\Debug\netcoreapp3.1\Productsubsystem.deps.json
+C:\Users\leanne.arce\OneDrive - Tribal Education Ltd\Training\Angular\Brownbag\ProductsSubsystem\bin\Debug\netcoreapp3.1\Productsubsystem.dll
+C:\Users\leanne.arce\OneDrive - Tribal Education Ltd\Training\Angular\Brownbag\ProductsSubsystem\bin\Debug\netcoreapp3.1\Productsubsystem.pdb
+C:\Users\leanne.arce\OneDrive - Tribal Education Ltd\Training\Angular\Brownbag\ProductsSubsystem\obj\Debug\netcoreapp3.1\Productsubsystem.AssemblyInfoInputs.cache
+C:\Users\leanne.arce\OneDrive - Tribal Education Ltd\Training\Angular\Brownbag\ProductsSubsystem\obj\Debug\netcoreapp3.1\Productsubsystem.AssemblyInfo.cs
+C:\Users\leanne.arce\OneDrive - Tribal Education Ltd\Training\Angular\Brownbag\ProductsSubsystem\obj\Debug\netcoreapp3.1\Productsubsystem.dll
+C:\Users\leanne.arce\OneDrive - Tribal Education Ltd\Training\Angular\Brownbag\ProductsSubsystem\obj\Debug\netcoreapp3.1\Productsubsystem.pdb
+C:\Users\leanne.arce\OneDrive - Tribal Education Ltd\Training\Angular\Brownbag\ProductsSubsystem\obj\Debug\netcoreapp3.1\Productsubsystem.csprojAssemblyReference.cache
